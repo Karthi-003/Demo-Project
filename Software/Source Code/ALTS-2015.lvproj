@@ -398,12 +398,12 @@
 			<Item Name="ALTS Write DB Write Result Driver Cases.ctl" Type="VI" URL="../Controls/ALTS Write DB Write Result Driver Cases.ctl"/>
 			<Item Name="ALTS-2015 Display Sensor ID.vi" Type="VI" URL="../../Sub VIs/ALTS-2015 Display Sensor ID.vi"/>
 			<Item Name="ALTS-2015 One Button Dialog Custom - Big.vi" Type="VI" URL="../Utilities/Dialog/ALTS-2015 One Button Dialog Custom - Big.vi"/>
-			<Item Name="ALTS-2015 Read a Section Values from INI File (String).vi" Type="VI" URL="../Utilities/SLL VIs/ALTS-2015 Read a Section Values from INI File (String).vi"/>
 			<Item Name="ALTS-2015 Set Light Indicators_Idle.vi" Type="VI" URL="../../Sub VIs/ALTS-2015 Set Light Indicators_Idle.vi"/>
 			<Item Name="ALTS-2015 SLL DE DAQ Engine Main.vi" Type="VI" URL="../../SLL DAQ Engine/Software/Source Code/Sub VIs/DAQ Engine/ALTS-2015 SLL DE DAQ Engine Main.vi"/>
 			<Item Name="ALTS-2015 Test Running in Any Station.vi" Type="VI" URL="../../Sub VIs/ALTS-2015 Test Running in Any Station.vi"/>
 			<Item Name="ALTS-2015 Three Button Error Dialog.vi" Type="VI" URL="../Utilities/SLL VIs/ALTS-2015 Three Button Error Dialog.vi"/>
 			<Item Name="EHTSP INI File LV2GBL Options.ctl" Type="VI" URL="../SLL DAQ Engine/Controls/EHTSP INI File LV2GBL Options.ctl"/>
+			<Item Name="EHTSP Read a Section Values from INI File (String).vi" Type="VI" URL="../../../../Motor Test Stand/Software/Source Code/Utilities/SLL VIs/EHTSP Read a Section Values from INI File (String).vi"/>
 			<Item Name="EHTSP_LVtoGB_INI Info.vi" Type="VI" URL="../SLL DAQ Engine/Global Variable/EHTSP_LVtoGB_INI Info.vi"/>
 			<Item Name="kernel32" Type="VI" URL="kernel32">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
