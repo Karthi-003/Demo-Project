@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=EDPMNORBCELL
+Trusted_Connection=Yes
+DATABASE=EPSN_NEW
+WSID=EDPMNWHP5005117
+APP=Microsoft Data Access Components
+SERVER=edpmnssql01
