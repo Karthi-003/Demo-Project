@@ -408,7 +408,6 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
-			<Item Name="7 Spindle - LV2GBL Options.ctl" Type="VI" URL="../../../../7 Spindle System/Software/Source Code/Controls/7 Spindle - LV2GBL Options.ctl"/>
 			<Item Name="ALTS DB Write Result Driver.vi" Type="VI" URL="../Sub VIs/ALTS DB Write Result Driver.vi"/>
 			<Item Name="ALTS LV2GBL INI Info.vi" Type="VI" URL="../Globals/ALTS LV2GBL INI Info.vi"/>
 			<Item Name="ALTS LV2GBL Options v1.ctl" Type="VI" URL="../Controls/ALTS LV2GBL Options v1.ctl"/>
@@ -423,9 +422,6 @@
 			<Item Name="ALTS Write DB Write Result Driver Cases.ctl" Type="VI" URL="../Controls/ALTS Write DB Write Result Driver Cases.ctl"/>
 			<Item Name="ALTS-2015 One Button Dialog Custom - Big.vi" Type="VI" URL="../Utilities/Dialog/ALTS-2015 One Button Dialog Custom - Big.vi"/>
 			<Item Name="ALTS-2015 Three Button Error Dialog.vi" Type="VI" URL="../Utilities/SLL VIs/ALTS-2015 Three Button Error Dialog.vi"/>
-			<Item Name="EHTSP INI File LV2GBL Options.ctl" Type="VI" URL="../SLL DAQ Engine/Controls/EHTSP INI File LV2GBL Options.ctl"/>
-			<Item Name="EHTSP Read a Section Values from INI File (String).vi" Type="VI" URL="../../../../Motor Test Stand/Software/Source Code/Utilities/SLL VIs/EHTSP Read a Section Values from INI File (String).vi"/>
-			<Item Name="EHTSP_LVtoGB_INI Info.vi" Type="VI" URL="../SLL DAQ Engine/Global Variable/EHTSP_LVtoGB_INI Info.vi"/>
 			<Item Name="kernel32" Type="VI" URL="kernel32">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
