@@ -10,6 +10,24 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Info" Type="Folder">
+			<Item Name="MAX Config" Type="Folder">
+				<Item Name="ALTS MAX CONFIGDATA_12 FEB 2015.NCE" Type="Document" URL="../../Info/MAX Config/ALTS MAX CONFIGDATA_12 FEB 2015.NCE"/>
+				<Item Name="ALTS MAX configData_15 MAR 2010.nce" Type="Document" URL="../../Info/MAX Config/ALTS MAX configData_15 MAR 2010.nce"/>
+				<Item Name="ALTS MAX configData_23 MAR 2010.nce" Type="Document" URL="../../Info/MAX Config/ALTS MAX configData_23 MAR 2010.nce"/>
+				<Item Name="ALTS MAX configData_26 MAR 2010.nce" Type="Document" URL="../../Info/MAX Config/ALTS MAX configData_26 MAR 2010.nce"/>
+			</Item>
+			<Item Name="Simulation" Type="Folder">
+				<Item Name="ALTS Station1.dsn" Type="Document" URL="../../Info/Simulation/ALTS Station1.dsn"/>
+			</Item>
+			<Item Name="ALTS Last Test Results.dat" Type="Document" URL="../../Info/ALTS Last Test Results.dat"/>
+			<Item Name="ALTS-2015.ico" Type="Document" URL="../../Info/ALTS-2015.ico"/>
+			<Item Name="ALTS-2015.ini" Type="Document" URL="../../Info/ALTS-2015.ini"/>
+			<Item Name="DAQ Engine Parameters.ini" Type="Document" URL="../../Info/DAQ Engine Parameters.ini"/>
+			<Item Name="Simulation_ALTS_Scanner.csv" Type="Document" URL="../../Info/Simulation_ALTS_Scanner.csv"/>
+			<Item Name="Simulation_ResultDB.csv" Type="Document" URL="../../Info/Simulation_ResultDB.csv"/>
+			<Item Name="Simulation_SerialDetails.csv" Type="Document" URL="../../Info/Simulation_SerialDetails.csv"/>
+		</Item>
 		<Item Name="Source Code" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -114,6 +132,7 @@
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
@@ -355,7 +374,6 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVAnnotationListTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVAnnotationListTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="LVSelectionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVSelectionTypeDef.ctl"/>
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>
@@ -398,16 +416,12 @@
 			<Item Name="ALTS Obtain Test data Result DB Driver.vi" Type="VI" URL="../Sub VIs/ALTS Obtain Test data Result DB Driver.vi"/>
 			<Item Name="ALTS Read INI file.vi" Type="VI" URL="../Sub VIs/ALTS Read INI file.vi"/>
 			<Item Name="ALTS Robot controller Enqueue element.vi" Type="VI" URL="../Sub VIs/Robot Controller Queue/ALTS Robot controller Enqueue element.vi"/>
-			<Item Name="ALTS Robot controller Enqueue element.vi" Type="VI" URL="../../../../../../Users/lenovo/Downloads/Source Code/Sub VIs/Robot Controller Queue/ALTS Robot controller Enqueue element.vi"/>
 			<Item Name="ALTS Robot Cotroller Queue Reference.vi" Type="VI" URL="../Sub VIs/Robot Controller Queue/ALTS Robot Cotroller Queue Reference.vi"/>
-			<Item Name="ALTS Robot Cotroller Queue Reference.vi" Type="VI" URL="../../../../../../Users/lenovo/Downloads/Source Code/Sub VIs/Robot Controller Queue/ALTS Robot Cotroller Queue Reference.vi"/>
 			<Item Name="ALTS Station Cluster.ctl" Type="VI" URL="../Controls/ALTS Station Cluster.ctl"/>
 			<Item Name="ALTS Station Details.ctl" Type="VI" URL="../Controls/ALTS Station Details.ctl"/>
 			<Item Name="ALTS write DB Result cases.ctl" Type="VI" URL="../Controls/ALTS write DB Result cases.ctl"/>
 			<Item Name="ALTS Write DB Write Result Driver Cases.ctl" Type="VI" URL="../Controls/ALTS Write DB Write Result Driver Cases.ctl"/>
 			<Item Name="ALTS-2015 One Button Dialog Custom - Big.vi" Type="VI" URL="../Utilities/Dialog/ALTS-2015 One Button Dialog Custom - Big.vi"/>
-			<Item Name="ALTS-2015 SLL DE DAQ Engine Main.vi" Type="VI" URL="../../SLL DAQ Engine/Software/Source Code/Sub VIs/DAQ Engine/ALTS-2015 SLL DE DAQ Engine Main.vi"/>
-			<Item Name="ALTS-2015 Test Running in Any Station.vi" Type="VI" URL="../../Sub VIs/ALTS-2015 Test Running in Any Station.vi"/>
 			<Item Name="ALTS-2015 Three Button Error Dialog.vi" Type="VI" URL="../Utilities/SLL VIs/ALTS-2015 Three Button Error Dialog.vi"/>
 			<Item Name="EHTSP INI File LV2GBL Options.ctl" Type="VI" URL="../SLL DAQ Engine/Controls/EHTSP INI File LV2GBL Options.ctl"/>
 			<Item Name="EHTSP Read a Section Values from INI File (String).vi" Type="VI" URL="../../../../Motor Test Stand/Software/Source Code/Utilities/SLL VIs/EHTSP Read a Section Values from INI File (String).vi"/>
@@ -427,6 +441,98 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="ALTS-2015 Auto Mod" Type="Installer">
+				<Property Name="Destination[0].name" Type="Str">ALTS-2015</Property>
+				<Property Name="Destination[0].parent" Type="Str">{3912416A-D2E5-411B-AFEE-B63654D690C0}</Property>
+				<Property Name="Destination[0].tag" Type="Str">{511829E3-EC13-4B73-A5D0-F48ACEB373E2}</Property>
+				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
+				<Property Name="Destination[1].name" Type="Str">Info</Property>
+				<Property Name="Destination[1].parent" Type="Str">{511829E3-EC13-4B73-A5D0-F48ACEB373E2}</Property>
+				<Property Name="Destination[1].tag" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Destination[1].type" Type="Str">userFolder</Property>
+				<Property Name="Destination[1].unlock" Type="Bool">true</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="INST_autoIncrement" Type="Bool">true</Property>
+				<Property Name="INST_buildLocation" Type="Path">../builds/ALTS-2015/ALTS-2015 Auto Mod</Property>
+				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
+				<Property Name="INST_buildSpecName" Type="Str">ALTS-2015 Auto Mod</Property>
+				<Property Name="INST_defaultDir" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="INST_productName" Type="Str">ALTS-2015</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
+				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
+				<Property Name="InstSpecVersion" Type="Str">13008046</Property>
+				<Property Name="MSI_distID" Type="Str">{A943D3C1-E382-49F9-A74B-59D9E01202D0}</Property>
+				<Property Name="MSI_osCheck" Type="Int">0</Property>
+				<Property Name="MSI_upgradeCode" Type="Str">{EFCB8843-6124-4161-93E3-CB9E78EA1DE2}</Property>
+				<Property Name="RegDest[0].dirName" Type="Str">Software</Property>
+				<Property Name="RegDest[0].dirTag" Type="Str">{DDFAFC8B-E728-4AC8-96DE-B920EBB97A86}</Property>
+				<Property Name="RegDest[0].parentTag" Type="Str">2</Property>
+				<Property Name="RegDestCount" Type="Int">1</Property>
+				<Property Name="Source[0].dest" Type="Str">{511829E3-EC13-4B73-A5D0-F48ACEB373E2}</Property>
+				<Property Name="Source[0].name" Type="Str">ALTS-2015 Auto Mode</Property>
+				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/ALTS-2015 Auto Mode</Property>
+				<Property Name="Source[0].type" Type="Str">EXE</Property>
+				<Property Name="Source[1].dest" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Source[1].name" Type="Str">ALTS-2015.ini</Property>
+				<Property Name="Source[1].tag" Type="Ref">/My Computer/Info/ALTS-2015.ini</Property>
+				<Property Name="Source[1].type" Type="Str">File</Property>
+				<Property Name="Source[2].dest" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Source[2].name" Type="Str">DAQ Engine Parameters.ini</Property>
+				<Property Name="Source[2].tag" Type="Ref">/My Computer/Info/DAQ Engine Parameters.ini</Property>
+				<Property Name="Source[2].type" Type="Str">File</Property>
+				<Property Name="Source[3].dest" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Source[3].name" Type="Str">Simulation_ALTS_Scanner.csv</Property>
+				<Property Name="Source[3].tag" Type="Ref">/My Computer/Info/Simulation_ALTS_Scanner.csv</Property>
+				<Property Name="Source[3].type" Type="Str">File</Property>
+				<Property Name="Source[4].dest" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Source[4].name" Type="Str">Simulation_ResultDB.csv</Property>
+				<Property Name="Source[4].tag" Type="Ref">/My Computer/Info/Simulation_ResultDB.csv</Property>
+				<Property Name="Source[4].type" Type="Str">File</Property>
+				<Property Name="Source[5].dest" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
+				<Property Name="Source[5].name" Type="Str">Simulation_SerialDetails.csv</Property>
+				<Property Name="Source[5].tag" Type="Ref">/My Computer/Info/Simulation_SerialDetails.csv</Property>
+				<Property Name="Source[5].type" Type="Str">File</Property>
+				<Property Name="SourceCount" Type="Int">6</Property>
+			</Item>
+			<Item Name="ALTS-2015 Auto Mode" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{937A7240-E8FF-410C-8E3C-5781A4C86AAB}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{96663619-2227-4184-A165-0AC7D22537C7}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{05132B25-2D25-478A-B91F-BD57B97B014C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">ALTS-2015 Auto Mode</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{EC91F2B1-61AF-4A77-85CA-949D0D457277}</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/ALTS-2015 Auto Mode.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F4FEA72B-5DD0-4463-BB51-BDF57C0E5CB8}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Source Code/ALTS-2015 Auto Mode.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">ALTS-2015 Auto Mode</Property>
+				<Property Name="TgtF_internalName" Type="Str">ALTS-2015 Auto Mode</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2015 </Property>
+				<Property Name="TgtF_productName" Type="Str">ALTS-2015 Auto Mode</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{5DE13216-CBD0-4B16-BAF9-BCDEAC274B25}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
