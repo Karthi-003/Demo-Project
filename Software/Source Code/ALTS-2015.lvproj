@@ -539,6 +539,7 @@
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 			<Item Name="Testing Info Folder.vi" Type="VI" URL="../Testing Info Folder.vi"/>
 		</Item>
+		<Item Name="ALTS-2015 Serial DB Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Serial DB Details.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -849,7 +850,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EC91F2B1-61AF-4A77-85CA-949D0D457277}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/ALTS-2015 Auto Mode.exe</Property>
