@@ -538,7 +538,6 @@
 			<Item Name="ALTS-2015 Tree.vi" Type="VI" URL="../ALTS-2015 Tree.vi"/>
 			<Item Name="ALTS-2015.aliases" Type="Document" URL="../ALTS-2015.aliases"/>
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
-			<Item Name="Testing Info Folder.vi" Type="VI" URL="../Testing Info Folder.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
