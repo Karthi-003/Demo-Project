@@ -79,6 +79,7 @@
 				<Item Name="ALTS-2015 Ring Indicator Enum.ctl" Type="VI" URL="../Controls/ALTS-2015 Ring Indicator Enum.ctl"/>
 				<Item Name="ALTS-2015 Safety Logic Cases.ctl" Type="VI" URL="../Controls/ALTS-2015 Safety Logic Cases.ctl"/>
 				<Item Name="ALTS-2015 Scanner Driver Options.ctl" Type="VI" URL="../Controls/ALTS-2015 Scanner Driver Options.ctl"/>
+				<Item Name="ALTS-2015 Serial DB Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Serial DB Details.ctl"/>
 				<Item Name="ALTS-2015 Serial Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Serial Details.ctl"/>
 				<Item Name="ALTS-2015 Station Cluster.ctl" Type="VI" URL="../Controls/ALTS-2015 Station Cluster.ctl"/>
 				<Item Name="ALTS-2015 Station Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Station Details.ctl"/>
@@ -539,7 +540,6 @@
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 			<Item Name="Testing Info Folder.vi" Type="VI" URL="../Testing Info Folder.vi"/>
 		</Item>
-		<Item Name="ALTS-2015 Serial DB Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Serial DB Details.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
