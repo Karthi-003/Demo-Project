@@ -553,6 +553,9 @@
 			<Item Name="ALTS-2015.aliases" Type="Document" URL="../ALTS-2015.aliases"/>
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 		</Item>
+		<Item Name="ALTS-2015 Enqueue Rerun Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Rerun Task State.vi"/>
+		<Item Name="ALTS-2015 Enqueue Unload Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Unload Task State.vi"/>
+		<Item Name="ALTS-2015 Robot Actions.ctl" Type="VI" URL="../Controls/ALTS-2015 Robot Actions.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
