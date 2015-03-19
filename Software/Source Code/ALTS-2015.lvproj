@@ -77,6 +77,7 @@
 				<Item Name="ALTS-2015 Prev Test Result Read DB Driver Options.ctl" Type="VI" URL="../Controls/ALTS-2015 Prev Test Result Read DB Driver Options.ctl"/>
 				<Item Name="ALTS-2015 Read Write Cluster Last Saved Results Data cluster.ctl" Type="VI" URL="../Controls/ALTS-2015 Read Write Cluster Last Saved Results Data cluster.ctl"/>
 				<Item Name="ALTS-2015 Ring Indicator Enum.ctl" Type="VI" URL="../Controls/ALTS-2015 Ring Indicator Enum.ctl"/>
+				<Item Name="ALTS-2015 Robot Actions.ctl" Type="VI" URL="../Controls/ALTS-2015 Robot Actions.ctl"/>
 				<Item Name="ALTS-2015 Robot FIFO Queue Options.ctl" Type="VI" URL="../Controls/ALTS-2015 Robot FIFO Queue Options.ctl"/>
 				<Item Name="ALTS-2015 Robot Tasks.ctl" Type="VI" URL="../Controls/ALTS-2015 Robot Tasks.ctl"/>
 				<Item Name="ALTS-2015 Safety Logic Cases.ctl" Type="VI" URL="../Controls/ALTS-2015 Safety Logic Cases.ctl"/>
@@ -87,6 +88,7 @@
 				<Item Name="ALTS-2015 Station Details.ctl" Type="VI" URL="../Controls/ALTS-2015 Station Details.ctl"/>
 				<Item Name="ALTS-2015 Status Message Options.ctl" Type="VI" URL="../Controls/ALTS-2015 Status Message Options.ctl"/>
 				<Item Name="ALTS-2015 Status Ring Indicator.ctl" Type="VI" URL="../Controls/ALTS-2015 Status Ring Indicator.ctl"/>
+				<Item Name="ALTS-2015 Task at Station Options.ctl" Type="VI" URL="../Controls/ALTS-2015 Task at Station Options.ctl"/>
 				<Item Name="ALTS-2015 Unload Task Data.ctl" Type="VI" URL="../Controls/ALTS-2015 Unload Task Data.ctl"/>
 				<Item Name="ALTS-2015 User Info Cluster.ctl" Type="VI" URL="../Controls/ALTS-2015 User Info Cluster.ctl"/>
 				<Item Name="ALTS-2015 WorkOrder&amp;SN Cluster.ctl" Type="VI" URL="../Controls/ALTS-2015 WorkOrder&amp;SN Cluster.ctl"/>
@@ -362,6 +364,8 @@
 				<Item Name="ALTS-2015 Decide Cases to go.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Decide Cases to go.vi"/>
 				<Item Name="ALTS-2015 Display Pass Fail Status.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Display Pass Fail Status.vi"/>
 				<Item Name="ALTS-2015 Display Sensor ID.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Display Sensor ID.vi"/>
+				<Item Name="ALTS-2015 Enqueue Rerun Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Rerun Task State.vi"/>
+				<Item Name="ALTS-2015 Enqueue Unload Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Unload Task State.vi"/>
 				<Item Name="ALTS-2015 Extract Test Data from Array.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Extract Test Data from Array.vi"/>
 				<Item Name="ALTS-2015 File and folder info.vi" Type="VI" URL="../Sub VIs/ALTS-2015 File and folder info.vi"/>
 				<Item Name="ALTS-2015 Get Cluster to write result in DB.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Get Cluster to write result in DB.vi"/>
@@ -385,6 +389,7 @@
 				<Item Name="ALTS-2015 Station Occupancy Status.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Station Occupancy Status.vi"/>
 				<Item Name="ALTS-2015 Status Log Module.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Status Log Module.vi"/>
 				<Item Name="ALTS-2015 Status Message Display.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Status Message Display.vi"/>
+				<Item Name="ALTS-2015 Task at Station.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Task at Station.vi"/>
 				<Item Name="ALTS-2015 Test Type Pulse Count Calc.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Test Type Pulse Count Calc.vi"/>
 				<Item Name="ALTS-2015 Test Type Selection.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Test Type Selection.vi"/>
 				<Item Name="ALTS-2015 TTA TTB to Test Type.vi" Type="VI" URL="../Sub VIs/ALTS-2015 TTA TTB to Test Type.vi"/>
@@ -553,9 +558,6 @@
 			<Item Name="ALTS-2015.aliases" Type="Document" URL="../ALTS-2015.aliases"/>
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 		</Item>
-		<Item Name="ALTS-2015 Enqueue Rerun Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Rerun Task State.vi"/>
-		<Item Name="ALTS-2015 Enqueue Unload Task State.vi" Type="VI" URL="../Sub VIs/ALTS-2015 Enqueue Unload Task State.vi"/>
-		<Item Name="ALTS-2015 Robot Actions.ctl" Type="VI" URL="../Controls/ALTS-2015 Robot Actions.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
