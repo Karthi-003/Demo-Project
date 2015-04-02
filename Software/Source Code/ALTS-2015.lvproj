@@ -906,7 +906,7 @@
 				<Property Name="TgtF_targetfileName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 			</Item>
 			<Item Name="ALTS-2015 Auto Mode Installer" Type="Installer">
-				<Property Name="Destination[0].name" Type="Str">ALTS-2015</Property>
+				<Property Name="Destination[0].name" Type="Str">ALTS-2015 Auto Mode</Property>
 				<Property Name="Destination[0].parent" Type="Str">{3912416A-D2E5-411B-AFEE-B63654D690C0}</Property>
 				<Property Name="Destination[0].tag" Type="Str">{511829E3-EC13-4B73-A5D0-F48ACEB373E2}</Property>
 				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
