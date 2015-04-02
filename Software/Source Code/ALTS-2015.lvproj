@@ -882,7 +882,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EC91F2B1-61AF-4A77-85CA-949D0D457277}</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/ALTS-2015 Auto Mode.exe</Property>
@@ -891,7 +891,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F4FEA72B-5DD0-4463-BB51-BDF57C0E5CB8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B721F338-36E3-48B0-B16F-8533255846BB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Source Code/ALTS-2015 Auto Mode.vi</Property>
@@ -922,7 +922,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">ALTS-2015 Auto Mode Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{A9B29834-E5CD-46C5-A26F-C549CF2BC78A}</Property>
 				<Property Name="INST_productName" Type="Str">ALTS-2015</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.7</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">13008046</Property>
 				<Property Name="MSI_distID" Type="Str">{A943D3C1-E382-49F9-A74B-59D9E01202D0}</Property>
@@ -937,7 +937,7 @@
 				<Property Name="Source[0].File[0].name" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 				<Property Name="Source[0].File[0].Shortcut[0].destIndex" Type="Int">0</Property>
 				<Property Name="Source[0].File[0].Shortcut[0].name" Type="Str">ALTS-2015 Auto Mode</Property>
-				<Property Name="Source[0].File[0].Shortcut[0].subDir" Type="Str">ALTS-2015</Property>
+				<Property Name="Source[0].File[0].Shortcut[0].subDir" Type="Str">ALTS-2015 Auto Mode</Property>
 				<Property Name="Source[0].File[0].Shortcut[1].destIndex" Type="Int">1</Property>
 				<Property Name="Source[0].File[0].Shortcut[1].name" Type="Str">ALTS-2015 Auto Mode</Property>
 				<Property Name="Source[0].File[0].Shortcut[1].subDir" Type="Str"></Property>
