@@ -1,0 +1,19 @@
+2015/07/23 14-33-46 : Application Launched
+
+2015/07/23 14:33:57
+     Error 1 occurred at DataSocket Write in ALTS-2015 OPC Write Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+2015/07/23 14:34:09
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/07/23 14:34:09
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+

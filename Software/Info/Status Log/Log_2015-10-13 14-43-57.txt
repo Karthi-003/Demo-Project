@@ -1,0 +1,17 @@
+2015/10/13 14-43-57 : Application Launched
+
+2015/10/13 14:45:07
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/10/13 14:45:07
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2015/10/13 14:45:17
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2015/10/13 14:45:17
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+

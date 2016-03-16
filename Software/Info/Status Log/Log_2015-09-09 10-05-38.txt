@@ -1,0 +1,17 @@
+2015/09/09 10-05-38 : Application Launched
+
+2015/09/09 10:11:36
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2015/09/09 10:15:55
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2015/09/09 10:16:21
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2015/09/09 10:17:43
+     Can not send the START pulse to Air Leak instrument at Station 2.  Reasons could be that, start pulse is received from robot when Station 2 is in non-clamped state or unit is not clamped physically in Station 2.
+

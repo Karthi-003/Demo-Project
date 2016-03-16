@@ -1,0 +1,9 @@
+2015/07/23 14-53-47 : Application Launched
+
+2015/07/23 14:58:59
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/07/23 14:58:59
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+

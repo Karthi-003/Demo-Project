@@ -1,0 +1,29 @@
+2015/12/08 15-26-16 : Application Launched
+
+2015/12/08 15:26:59
+     Error occured at "Auto Mode .vi"
+
+2015/12/08 15:26:59
+     Error 91 occurred at Variant To Data in ALTS-2015-Read Serial Number.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  The data type of the variant is not compatible with the data type wired to the type input.
+
+
+
+2015/12/08 15:27:44
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/12/08 15:27:44
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2015/12/08 15:27:59
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2015/12/08 15:27:59
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+

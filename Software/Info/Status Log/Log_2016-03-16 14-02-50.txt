@@ -1,0 +1,13 @@
+2016/03/16 14-02-50 : Application Launched
+
+2016/03/16 14:03:48
+     Error occured at "Robot Controller Loop"
+
+2016/03/16 14:03:48
+     Error 5000 occurred at ...  both 'Task_Pass' and 'Task_Failure' status of last Load task sent to Station 1 is  updated as 'Low' by robot.
+     
+     Possible reason(s)
+     
+     Enama ipdi panringalema
+
+

@@ -1,0 +1,45 @@
+2015/10/13 12-07-53 : Application Launched
+
+2015/10/13 12:07:55
+     Error 63 occurred at DataSocket Open in ALTS-2015 OPC engine initialize.vi->ALTS-2015 OPC Write Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  Serial port receive buffer overflow
+     ========================
+     LabVIEW:  The network connection was refused by the server.
+
+
+2015/10/13 12:07:56
+     Error 63 occurred at DataSocket Open in ALTS-2015 OPC engine initialize.vi->ALTS-2015 OPC Read Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  Serial port receive buffer overflow
+     ========================
+     LabVIEW:  The network connection was refused by the server.
+
+
+2015/10/13 12:07:56
+     Error occured at "Robot Controller Loop"
+
+2015/10/13 12:07:56
+     Error 91 occurred at Variant To Data in ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  The data type of the variant is not compatible with the data type wired to the type input.
+
+
+
+2015/10/13 12:07:59
+     Error occured at "Auto Mode .vi"
+
+2015/10/13 12:07:59
+     Error 91 occurred at Variant To Data in ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  The data type of the variant is not compatible with the data type wired to the type input.
+
+

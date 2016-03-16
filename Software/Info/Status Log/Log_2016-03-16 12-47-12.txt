@@ -1,0 +1,69 @@
+2016/03/16 12-47-12 : Application Launched
+
+2016/03/16 12:47:15
+     Error 63 occurred at DataSocket Open in ALTS-2015 OPC engine initialize.vi->ALTS-2015 OPC Write Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  Serial port receive buffer overflow
+     ========================
+     LabVIEW:  The network connection was refused by the server.
+
+
+2016/03/16 12:47:23
+     Error 63 occurred at DataSocket Open in ALTS-2015 OPC engine initialize.vi->ALTS-2015 OPC Read Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  Serial port receive buffer overflow
+     ========================
+     LabVIEW:  The network connection was refused by the server.
+
+
+2016/03/16 12:47:50
+     Error occured at "Auto Mode .vi"
+
+2016/03/16 12:47:50
+     Error 91 occurred at Variant To Data in ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  The data type of the variant is not compatible with the data type wired to the type input.
+
+
+
+2016/03/16 12:47:51
+     Error occured at "Robot Controller Loop"
+
+2016/03/16 12:47:47
+     Error 91 occurred at Variant To Data in ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  The data type of the variant is not compatible with the data type wired to the type input.
+
+
+
+2016/03/16 12:48:28
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2016/03/16 12:48:28
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2016/03/16 12:48:43
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2016/03/16 12:48:43
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+
+
+2016/03/16 12:48:58
+     Timeout in confirming Test Type selection  in Station 3 .
+
+
+2016/03/16 12:48:58
+     Test Type 1 selection of Station 3 is not set successfuly during application exit
+

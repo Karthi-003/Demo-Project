@@ -1,0 +1,11 @@
+2016/02/16 12-24-20 : Application Launched
+
+2016/02/16 12:24:22
+     Error 63 occurred at DataSocket Open in ALTS-2015 OPC engine initialize.vi->ALTS-2015 OPC Write Engine.vi->ALTS-2015 OPC Engine Main.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  Serial port receive buffer overflow
+     ========================
+     LabVIEW:  The network connection was refused by the server.
+

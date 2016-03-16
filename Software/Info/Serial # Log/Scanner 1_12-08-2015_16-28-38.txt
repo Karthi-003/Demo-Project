@@ -1,0 +1,1 @@
+TimeStamp	Buffer Clear Response	Serial Number	Valid Serial# ?

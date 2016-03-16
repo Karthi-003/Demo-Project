@@ -1,0 +1,16 @@
+2016/02/17 11-00-39 : Application Launched
+
+2016/02/17 11:01:01
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2016/02/17 11:01:57
+     Error occured at "Auto Mode .vi"
+
+2016/02/17 11:01:57
+     Error 1 occurred at "NI_Database_API.lvlib:Cmd getData.vi"
+     
+     Possible reason(s)
+     Object 0x1111111 is not valid.
+
+

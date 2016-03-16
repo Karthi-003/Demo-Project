@@ -1,0 +1,12 @@
+2016/02/17 10-36-28 : Application Launched
+
+2016/02/17 10:37:12
+     Error occured at "Auto Mode .vi"
+
+2016/02/17 10:37:12
+     Error 1 occurred at "NI_Database_API.lvlib:Cmd getData.vi"
+     
+     Possible reason(s)
+     Object 0x000000 is not valid.
+
+

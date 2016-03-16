@@ -1,0 +1,25 @@
+2016/03/16 14-06-25 : Application Launched
+
+2016/03/16 14:19:40
+     Error occured at "Robot Controller Loop"
+
+2016/03/16 14:19:40
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot; but 'Task_Pass' status is updated as 'High' by robot.
+     
+     Possible reason(s)
+     
+     Enama ipdi panringalema
+
+
+
+2016/03/16 14:19:47
+     Error occured at "Auto Mode .vi"
+
+2016/03/16 14:19:47
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot; but 'Task_Pass' status is updated as 'High' by robot.
+     
+     Possible reason(s)
+     
+     Enama ipdi panringalema
+
+

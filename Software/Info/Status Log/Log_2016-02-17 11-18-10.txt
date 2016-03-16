@@ -1,0 +1,9 @@
+2016/02/17 11-18-10 : Application Launched
+
+2016/02/17 11:18:47
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2016/02/17 11:22:14
+     Timeout in confirming Test Type selection  in Station 1 .
+

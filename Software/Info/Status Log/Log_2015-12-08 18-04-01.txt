@@ -1,0 +1,117 @@
+2015/12/08 18-04-01 : Application Launched
+
+2015/12/08 18:11:18
+     Error occured at "Robot Controller Loop"
+
+2015/12/08 18:11:18
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:11:19
+     Error occured at "Auto Mode .vi"
+
+2015/12/08 18:11:19
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:14:54
+     Can not send the START pulse to Air Leak instrument at Station 2.  Reasons could be that, start pulse is received from robot when Station 2 is in non-clamped state or unit is not clamped physically in Station 2.
+
+
+2015/12/08 18:15:31
+     Error occured at "Robot Controller Loop"
+
+2015/12/08 18:15:31
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:15:32
+     Error occured at "Auto Mode .vi"
+
+2015/12/08 18:15:32
+     Error 5000 occurred at ...  Station 1 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:16:56
+     Error occured at "Robot Controller Loop"
+
+2015/12/08 18:16:56
+     Error 5000 occurred at ...  Station 2 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:17:01
+     Error occured at "Auto Mode .vi"
+
+2015/12/08 18:17:01
+     Error 5000 occurred at ...  Station 2 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:20:21
+     Error occured at "Robot Controller Loop"
+
+2015/12/08 18:20:21
+     Error 5000 occurred at ...  Station 2 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:20:23
+     Error occured at "Auto Mode .vi"
+
+2015/12/08 18:20:23
+     Error 5000 occurred at ...  Station 2 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2015/12/08 18:21:52
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/12/08 18:21:52
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2015/12/08 18:22:07
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2015/12/08 18:22:07
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+

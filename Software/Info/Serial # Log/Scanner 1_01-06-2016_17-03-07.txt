@@ -1,0 +1,5 @@
+TimeStamp	Buffer Clear Response	Serial Number	Valid Serial# ?
+01/06/16_05:03 PM	Simulation	158-3663-001;150423mot0002	True
+01/06/16_05:04 PM	Simulation	158-3663-001;150423mot0004	True
+01/06/16_05:05 PM	Simulation	158-3663-001;150423mot0001	True
+01/06/16_05:05 PM	Simulation	158-3663-001;150423mot0010	True

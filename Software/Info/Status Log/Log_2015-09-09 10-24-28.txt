@@ -1,0 +1,5 @@
+2015/09/09 10-24-28 : Application Launched
+
+2015/09/09 10:25:47
+     Can not send the START pulse to Air Leak instrument at Station 2.  Reasons could be that, start pulse is received from robot when Station 2 is in non-clamped state or unit is not clamped physically in Station 2.
+

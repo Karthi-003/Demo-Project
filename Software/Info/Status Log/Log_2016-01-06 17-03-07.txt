@@ -1,0 +1,61 @@
+2016/01/06 17-03-07 : Application Launched
+
+2016/01/06 17:04:59
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2016/01/06 17:05:13
+     Error occured at "Robot Controller Loop"
+
+2016/01/06 17:05:13
+     Error 5000 occurred at ...  Station 3 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2016/01/06 17:05:13
+     Error occured at "Auto Mode .vi"
+
+2016/01/06 17:05:13
+     Error 5000 occurred at ...  Station 3 is still unclamped after load task is sent to robot.
+     
+     This error code is undefined. Undefined errors might occur for a number of reasons. For example, no one has provided a description for the code, or you might have wired a number that is not an error code to the error code input.
+     
+Additionally, undefined error codes might occur because the error relates to a third-party object, such as the operating system or ActiveX. For these third-party errors, you might be able to obtain a description of the error by searching the Web for the error code (5000) or for its hexadecimal representation (0x00001388).
+
+
+
+2016/01/06 17:17:03
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2016/01/06 17:17:03
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2016/01/06 17:17:18
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2016/01/06 17:17:18
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+
+
+2016/01/06 17:17:33
+     Timeout in confirming Test Type selection  in Station 3 .
+
+
+2016/01/06 17:17:33
+     Test Type 1 selection of Station 3 is not set successfuly during application exit
+
+
+2016/01/06 17:17:48
+     Timeout in confirming Test Type selection  in Station 4 .
+
+
+2016/01/06 17:17:48
+     Test Type 1 selection of Station 4 is not set successfuly during application exit
+

@@ -1,0 +1,31 @@
+2016/02/16 19-27-36 : Application Launched
+
+2016/02/16 19:28:39
+     Error occured at "Auto Mode .vi"
+
+2016/02/16 19:28:39
+     Error 1 occurred at Send Notification in ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 19:28:54
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2016/02/16 19:28:54
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2016/02/16 19:29:09
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2016/02/16 19:29:09
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+

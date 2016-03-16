@@ -1,0 +1,123 @@
+2016/02/16 11-15-45 : Application Launched
+
+2016/02/16 11:15:47
+     Error occured at "Auto Mode .vi"
+
+2016/02/16 11:15:47
+     Error -2147467259 occurred at NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->ALTS-2015 Obtain Test data Result DB Driver.vi->ALTS-2015 Init All.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     ADO Error: 0x80004005
+     Exception occured in Microsoft OLE DB Provider for ODBC Drivers: General error: Invalid file dsn '' in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->ALTS-2015 Obtain Test data Result DB Driver.vi->ALTS-2015 Init All.vi->ALTS-2015 Auto Mode.vi
+
+
+
+2016/02/16 11:15:47
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:47
+     Error -2147467259 occurred at NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->ALTS-2015 Obtain Test data Result DB Driver.vi->ALTS-2015 Init All.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     ADO Error: 0x80004005
+     Exception occured in Microsoft OLE DB Provider for ODBC Drivers: General error: Invalid file dsn '' in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->ALTS-2015 Obtain Test data Result DB Driver.vi->ALTS-2015 Init All.vi->ALTS-2015 Auto Mode.vi
+
+
+
+2016/02/16 11:15:48
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:47
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:48
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:48
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:48
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:48
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:48
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:48
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:48
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:48
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:49
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:49
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+
+
+2016/02/16 11:15:49
+     Error occured at "Robot Controller Loop"
+
+2016/02/16 11:15:49
+     Error 1 occurred at Dequeue Element in ALTS-2015 Robot State Controller.vi->ALTS-2015 Robot Controller Loop.vi->ALTS-2015 Auto Mode.vi
+     
+     Possible reason(s)
+     
+     LabVIEW:  An input parameter is invalid. For example if the input is a path, the path might contain a character not allowed by the OS such as ? or @
+     ========================
+     NI-488:  Command requires GPIB Controller to be Controller-In-Charge.
+
+

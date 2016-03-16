@@ -1,0 +1,21 @@
+2015/12/08 17-37-51 : Application Launched
+
+2015/12/08 17:38:56
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2015/12/08 17:39:27
+     Timeout in confirming Test Type selection  in Station 1 .
+
+
+2015/12/08 17:39:27
+     Test Type 1 selection of Station 1 is not set successfuly during application exit
+
+
+2015/12/08 17:39:42
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2015/12/08 17:39:42
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+

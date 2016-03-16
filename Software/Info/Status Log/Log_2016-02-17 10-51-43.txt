@@ -1,0 +1,51 @@
+2016/02/17 10-51-43 : Application Launched
+
+2016/02/17 10:52:02
+     Can not send the START pulse to Air Leak instrument at Station 1.  Reasons could be that, start pulse is received from robot when Station 1 is in non-clamped state or unit is not clamped physically in Station 1.
+
+
+2016/02/17 10:52:32
+     Error occured at "Auto Mode .vi"
+
+2016/02/17 10:52:32
+     Error 1 occurred at "NI_Database_API.lvlib:Cmd getData.vi"
+     
+     Possible reason(s)
+     Object 0x000000 is not valid.
+
+
+
+2016/02/17 10:53:01
+     Error occured at "Auto Mode .vi"
+
+2016/02/17 10:53:01
+     Error 1 occurred at "NI_Database_API.lvlib:Cmd getData.vi"
+     
+     Possible reason(s)
+     Object 0x1111111 is not valid.
+
+
+
+2016/02/17 10:53:33
+     Timeout in confirming Test Type selection  in Station 2 .
+
+
+2016/02/17 10:53:33
+     Test Type 1 selection of Station 2 is not set successfuly during application exit
+
+
+2016/02/17 10:53:48
+     Timeout in confirming Test Type selection  in Station 3 .
+
+
+2016/02/17 10:53:48
+     Test Type 1 selection of Station 3 is not set successfuly during application exit
+
+
+2016/02/17 10:54:03
+     Timeout in confirming Test Type selection  in Station 4 .
+
+
+2016/02/17 10:54:03
+     Test Type 1 selection of Station 4 is not set successfuly during application exit
+
