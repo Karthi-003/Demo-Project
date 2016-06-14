@@ -106,6 +106,7 @@
 				<Item Name="ALTS-2015 LV2GBL Robot FIFO Queue.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Robot FIFO Queue.vi"/>
 				<Item Name="ALTS-2015 LV2GBL Scan trigger Status.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Scan trigger Status.vi"/>
 				<Item Name="ALTS-2015 LV2GBL Station Info.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Station Info.vi"/>
+				<Item Name="ALTS-2015 LV2GBL Task Pass Fail Status.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Task Pass Fail Status.vi"/>
 				<Item Name="ALTS-2015 LV2GBL User Info.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL User Info.vi"/>
 				<Item Name="ALTS-2015 LV2GBL Work Order&amp;Serial Number Info.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Work Order&amp;Serial Number Info.vi"/>
 				<Item Name="ALTS-2015 LV2GBL Working Station Details.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Working Station Details.vi"/>
@@ -271,7 +272,7 @@
 							<Item Name="SLL DE File Looging Command LV2Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE File Looging Command LV2Global.vi"/>
 							<Item Name="SLL DE File Looging Utility.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE File Looging Utility.vi"/>
 							<Item Name="SLL DE Generate Time Events.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE Generate Time Events.vi"/>
-							<Item Name="SLL DE Print Chart.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE Print Chart.vi"/>
+							<Item Name="SLL DE Print Chart.vi" Type="VI" URL="../../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE Print Chart.vi"/>
 							<Item Name="SLL DI LV2 Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DI LV2 Global.vi"/>
 							<Item Name="SLL Get Graph and File Sampling Rate.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL Get Graph and File Sampling Rate.vi"/>
 						</Item>
@@ -565,6 +566,7 @@
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 		</Item>
 		<Item Name="ALTS-2015 LV2GBL Task Pass Status.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Task Pass Status.vi"/>
+		<Item Name="ALTS-2015 Pass Fail State.ctl" Type="VI" URL="../Controls/ALTS-2015 Pass Fail State.ctl"/>
 		<Item Name="ALTS-2015 Show Remaining Time .vi" Type="VI" URL="../Sub VIs/ALTS-2015 Show Remaining Time .vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -811,7 +813,6 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVAnnotationListTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVAnnotationListTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -879,7 +880,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EC91F2B1-61AF-4A77-85CA-949D0D457277}</Property>
-				<Property Name="Bld_version.build" Type="Int">35</Property>
+				<Property Name="Bld_version.build" Type="Int">36</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/ALTS-2015 Auto Mode.exe</Property>
@@ -928,7 +929,7 @@
 				<Property Name="INST_productName" Type="Str">ALTS-2015</Property>
 				<Property Name="INST_productVersion" Type="Str">1.0.10</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">13018017</Property>
+				<Property Name="InstSpecVersion" Type="Str">13000000</Property>
 				<Property Name="MSI_distID" Type="Str">{A943D3C1-E382-49F9-A74B-59D9E01202D0}</Property>
 				<Property Name="MSI_osCheck" Type="Int">0</Property>
 				<Property Name="MSI_upgradeCode" Type="Str">{EFCB8843-6124-4161-93E3-CB9E78EA1DE2}</Property>
