@@ -139,6 +139,8 @@
 							<Item Name="SLL List of Digital Inputs.ctl" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Controls/SLL List of Digital Inputs.ctl"/>
 						</Item>
 						<Item Name="Globals" Type="Folder">
+							<Item Name="ALTS-2015 LV2GBL Task Pass Status.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Task Pass Status.vi"/>
+							<Item Name="ALTS-2015 Pass Fail State.ctl" Type="VI" URL="../Controls/ALTS-2015 Pass Fail State.ctl"/>
 							<Item Name="SLL DE DAQ LV2 Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Globals/SLL DE DAQ LV2 Global.vi"/>
 							<Item Name="SLL DE DAQ Parameters LV2 Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Globals/SLL DE DAQ Parameters LV2 Global.vi"/>
 							<Item Name="SLL DE Generate Plot LV2Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Globals/SLL DE Generate Plot LV2Global.vi"/>
@@ -267,6 +269,7 @@
 								</Item>
 								<Item Name="SLL DE DAQ Engine Main.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/DAQ Engine/SLL DE DAQ Engine Main.vi"/>
 							</Item>
+							<Item Name="ALTS-2015 Show Remaining Time .vi" Type="VI" URL="../Sub VIs/ALTS-2015 Show Remaining Time .vi"/>
 							<Item Name="SLL DE csv File Driver.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE csv File Driver.vi"/>
 							<Item Name="SLL DE Decimate 2D Array.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE Decimate 2D Array.vi"/>
 							<Item Name="SLL DE File Looging Command LV2Global.vi" Type="VI" URL="../SLL DAQ Engine/Software/Source Code/Sub VIs/SLL DE File Looging Command LV2Global.vi"/>
@@ -565,9 +568,6 @@
 			<Item Name="ALTS-2015.aliases" Type="Document" URL="../ALTS-2015.aliases"/>
 			<Item Name="ALTS-2015.lvlps" Type="Document" URL="../ALTS-2015.lvlps"/>
 		</Item>
-		<Item Name="ALTS-2015 LV2GBL Task Pass Status.vi" Type="VI" URL="../Globals/ALTS-2015 LV2GBL Task Pass Status.vi"/>
-		<Item Name="ALTS-2015 Pass Fail State.ctl" Type="VI" URL="../Controls/ALTS-2015 Pass Fail State.ctl"/>
-		<Item Name="ALTS-2015 Show Remaining Time .vi" Type="VI" URL="../Sub VIs/ALTS-2015 Show Remaining Time .vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -855,6 +855,8 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="SLL Read Write Array to a key I32.vi" Type="VI" URL="../Utilities/File IO/INI/SLL Read Write Array to a key.llb/SLL Read Write Array to a key I32.vi"/>
+			<Item Name="SLLCheck and Create a Key (String).vi" Type="VI" URL="../Utilities/File IO/INI/SLL Check and Create a Key.llb/SLLCheck and Create a Key (String).vi"/>
 			<Item Name="Test DAQ OPC and Robot.vi" Type="VI" URL="../Prototype, Simulation &amp; Testing VIs/Test DAQ OPC and Robot.vi"/>
 			<Item Name="user32" Type="VI" URL="user32">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -880,7 +882,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EC91F2B1-61AF-4A77-85CA-949D0D457277}</Property>
-				<Property Name="Bld_version.build" Type="Int">36</Property>
+				<Property Name="Bld_version.build" Type="Int">42</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ALTS-2015 Auto Mode.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/ALTS-2015 Auto Mode.exe</Property>
@@ -889,7 +891,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ALTS-2015 Auto Mode/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9FAF06D3-C490-4B25-987C-0A24AD94D8A2}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{96E41F41-F65D-46C7-9FC5-6B04614C9F19}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Source Code/ALTS-2015 Auto Mode.vi</Property>
